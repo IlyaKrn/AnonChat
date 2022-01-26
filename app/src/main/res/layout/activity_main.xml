@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarMain"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/purple_300"
+        android:contentInsetStart="0dp"
+        android:contentInsetLeft="0dp"
+        android:elevation="4dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp">
+
+            <ImageButton
+                android:id="@+id/btOpenMenu"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="onOpenMenu"
+                app:srcCompat="@android:drawable/ic_menu_sort_by_size"
+                tools:ignore="OnClick"
+                android:background="@color/purple_300" />
+
+            <EditText
+                android:id="@+id/etSearchChat"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:hint="@string/search_chat"
+                android:textSize="23sp"/>
+
+            <ImageButton
+                android:id="@+id/btSearch"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:onClick="onSearch"
+                android:layout_gravity="end"
+
+                app:srcCompat="@android:drawable/ic_menu_search"
+                tools:ignore="OnClick"
+                android:background="@color/purple_300" />
+
+
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <ListView
+        android:id="@+id/lvMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:choiceMode="multipleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:listSelector="@android:color/transparent">
+
+    </ListView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginRight="80dp"
+        android:layout_marginBottom="80dp"
+        android:backgroundTint="@color/purple_700"
+        android:src="@android:drawable/ic_input_add" />
+
+</FrameLayout>

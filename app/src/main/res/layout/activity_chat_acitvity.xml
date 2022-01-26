@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChatAcitvity"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarMain"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/purple_300"
+        android:contentInsetStart="0dp"
+        android:contentInsetLeft="0dp"
+        android:elevation="4dp"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp">
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            app:srcCompat="?attr/actionModeCloseDrawable"
+            android:onClick="onClose"
+            tools:ignore="OnClick"
+            android:background="@color/purple_300"/>
+
+        <TextView
+            android:id="@+id/tvName"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textAlignment="viewStart"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp" />
+
+        <ImageButton
+            android:id="@+id/btChatMenuOpen"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@color/purple_300"
+            android:onClick="onChatMenuOpen"
+            app:srcCompat="@android:drawable/ic_menu_sort_by_size"
+            tools:ignore="OnClick" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarSelected"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/purple_300"
+        android:contentInsetStart="0dp"
+        android:contentInsetLeft="0dp"
+        android:elevation="4dp"
+        android:visibility="gone"
+        app:contentInsetLeft="0dp"
+        app:contentInsetStart="0dp">
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            app:srcCompat="?attr/actionModeCloseDrawable"
+            android:onClick="onClose"
+            tools:ignore="OnClick"
+            android:background="@color/purple_300"/>
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="end"
+            android:background="@color/purple_300"
+            android:onClick="onDeliteSelectedItems"
+            app:srcCompat="@android:drawable/ic_menu_delete"
+            tools:ignore="OnClick" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:transcriptMode="alwaysScroll" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:background="@color/purple_300">
+
+        <ImageButton
+            android:id="@+id/btSetImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+            android:onClick="onSetImage"
+            android:background="@color/purple_300"
+            app:srcCompat="@android:drawable/ic_menu_add"
+            tools:ignore="OnClick" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/purple_200"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/etSend"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:maxHeight="120dp"
+                android:hint="Написать сообщение" />
+
+        </LinearLayout>
+
+
+        <ImageButton
+            android:id="@+id/btSend"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:onClick="onSend"
+            android:layout_gravity="bottom"
+            android:background="@color/purple_300"
+            app:srcCompat="@android:drawable/ic_menu_send"
+            tools:ignore="OnClick" />
+
+    </LinearLayout>
+
+
+</FrameLayout>

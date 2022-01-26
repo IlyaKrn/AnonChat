@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AnonChat</string>
+    <string name="dialog_add_title">Новый чат</string>
+    <string name="create">Создать</string>
+    <string name="delite">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="name">Название</string>
+    <string name="new_chat">Добро пожаловать в новый чат</string>
+    <string name="no_function">"Функция еще недоступна"</string>
+    <string name="delite_message_dialog_title">Удалить сообщение?</string>
+    <string name="delite_message_dialog_subtitle">Сообщение будет удалено без возможности восстановления</string>
+    <string name="no_name">Напишите название чата</string>
+    <string name="search_chat">Найти чат</string>
+    <string name="user_name">Имя</string>
+    <string name="user_password">Пароль</string>
+    <string name="user_password_second">Повторите пароль</string>
+    <string name="authorization">Вход</string>
+    <string name="enter">Войти</string>
+    <string name="back">Назад</string>
+    <string name="registrarion">Регистрация</string>
+    <string name="no_authorized">Вы не зарегистрированы</string>
+    <string name="registration_subtitle">Эта информация будет видна только администраторам</string>
+    <string name="this_name_is_used">Пользователь с таким именет уже существует</string>
+    <string name="broken_password">Неверный пароль</string>
+    <string name="no_chat">Не удалось найти чат</string>
+    <string name="exit">Выйти</string>
+    <string name="about_chat">О чате</string>
+    <string name="description">Описание</string>
+    <string name="refactor">Изменить</string>
+    <string name="chat_name">Название</string>
+    <string name="always_use_this_account">Всегда использовать этот аккаунт</string>
+</resources>

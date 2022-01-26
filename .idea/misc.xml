@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/drawable/add.xml" value="0.7321428571428571" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/drawable/add_chat.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/layout/activity_add_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/layout/activity_chat_acitvity.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/layout/add_chat_acitvity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChat/app/src/main/res/layout/dialog_add.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/drawable/add.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/drawable/ripple.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/layout/activity_chat_acitvity.xml" value="0.5" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/layout/menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/layout/message_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.1/app/src/main/res/menu/menu.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.2/app/src/main/res/drawable/round_corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.2/app/src/main/res/layout/activity_chat_acitvity.xml" value="0.2609375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.2/app/src/main/res/layout/activity_registration_acitvity.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.2/app/src/main/res/layout/dialog_authorization.xml" value="0.2609375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.2/app/src/main/res/layout/dialog_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.2/app/src/main/res/layout/message_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/activity_chat_acitvity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/activity_chat_information.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/activity_main.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/dialog_refactorind.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/dialog_refactoring.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/message_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/popup_main.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/layout/popup_main_menu.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/menu/popup_chat.xml" value="0.3109375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/menu/popup_main.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.3/app/src/main/res/menu/poup.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.4.1/app/src/main/res/layout/activity_registration_acitvity.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.4.1/app/src/main/res/layout/dialog_authorization.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.4.1/app/src/main/res/layout/dialog_registration.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5/app/src/main/res/drawable/ripple.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5/app/src/main/res/drawable/round_corner.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5/app/src/main/res/drawable/round_corner_selected.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5/app/src/main/res/layout/activity_chat_acitvity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5/app/src/main/res/layout/activity_chat_information.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5/app/src/main/res/layout/message_list_item.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/drawable/round_corner.xml" value="0.27037037037037037" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/activity_chat_acitvity.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/activity_chat_information.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/activity_registration_acitvity.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/dialog_add.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/dialog_authorization.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/layout/message_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/AnonChatProjects/AnonChat1.5_Select_Messages/app/src/main/res/menu/popup_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

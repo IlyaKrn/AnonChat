@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149465958642",
+    "project_id": "anonchat-ef620",
+    "storage_bucket": "anonchat-ef620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149465958642:android:891a36961a2fa974cea86b",
+        "android_client_info": {
+          "package_name": "com.example.anonchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149465958642-n5egbm2f35oum4d69qnhm1v6lp3o9vkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxY1lr2P0eo5Zxc-ROs-OThfW-1pqzkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149465958642-n5egbm2f35oum4d69qnhm1v6lp3o9vkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
